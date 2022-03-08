@@ -3,7 +3,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 
-## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/1)
+## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/2)
 
 - [x]    https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
 
@@ -51,7 +51,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-undo-a-git-add/
+- [x]    https://www.freecodecamp.org/news/how-to-undo-a-git-add/
 
 - [ ]    https://www.freecodecamp.org/news/html-button-onclick-javascript-click-event-tutorial/
 
