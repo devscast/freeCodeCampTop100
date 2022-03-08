@@ -3,7 +3,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 
-## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/2)
+## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/3)
 
 - [x]    https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
 
@@ -13,7 +13,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/how-to-substring-a-string-in-python/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/
+- [x]    https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/
 
 - [ ]    https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-and-paste/
 
