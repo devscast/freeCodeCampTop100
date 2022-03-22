@@ -1,5 +1,4 @@
 https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
-https://www.freecodecamp.fr/nouvelles/comment-supprimer-une-branche-git-a-la-fois-localement-et-a-distance
 
 # Comment supprimer une branche Git en local et à distance ?
 

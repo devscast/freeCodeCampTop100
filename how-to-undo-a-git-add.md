@@ -1,7 +1,5 @@
 https://www.freecodecamp.org/news/how-to-undo-a-git-add/
 
-https://www.freecodecmap.fr/nouvelles/comment-annuler-un-ajout-git
-
 # Comment annuler un ajout Git ?
 
 Pour annuler `git add` avant un commit, exécutez `git reset <file>` ou `git reset` pour annuler toutes les modifications.

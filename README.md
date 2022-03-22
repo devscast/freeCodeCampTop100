@@ -3,7 +3,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 
-## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/3)
+## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/4)
 
 - [x]    https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
 
@@ -11,7 +11,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/mathematics-converting-am-pm-to-24-hour-clock/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-substring-a-string-in-python/
+- [x]    https://www.freecodecamp.org/news/how-to-substring-a-string-in-python/
 
 - [x]    https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/
 
