@@ -3,7 +3,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 
-## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/4)
+## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
 
 - [x]    https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
 
@@ -203,4 +203,4 @@
 
 - [ ]    https://www.freecodecamp.org/news/python-json-how-to-convert-a-string-to-json/
 
-- [ ]    https://www.freecodecamp.org/news/git-revert-commit-how-to-undo-the-last-commit/
+- [x]    https://www.freecodecamp.org/news/git-revert-commit-how-to-undo-the-last-commit/
