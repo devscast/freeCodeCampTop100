@@ -19,7 +19,7 @@
 
 - [x]    https://www.freecodecamp.org/news/java-string-to-int-how-to-convert-a-string-to-an-integer/
 
-- [ ]    https://www.freecodecamp.org/news/git-clone-branch-how-to-clone-a-specific-branch/
+- [x]    https://www.freecodecamp.org/news/git-clone-branch-how-to-clone-a-specific-branch/
 
 - [ ]    https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/
 
