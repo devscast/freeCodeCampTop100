@@ -17,7 +17,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-and-paste/
 
-- [ ]    https://www.freecodecamp.org/news/java-string-to-int-how-to-convert-a-string-to-an-integer/
+- [x]    https://www.freecodecamp.org/news/java-string-to-int-how-to-convert-a-string-to-an-integer/
 
 - [ ]    https://www.freecodecamp.org/news/git-clone-branch-how-to-clone-a-specific-branch/
 
