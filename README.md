@@ -25,7 +25,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/
 
-- [ ]    https://www.freecodecamp.org/news/check-if-javascript-array-is-empty-or-not-with-length/
+- [x]    https://www.freecodecamp.org/news/check-if-javascript-array-is-empty-or-not-with-length/
 
 - [ ]    https://www.freecodecamp.org/news/python-new-line-and-how-to-python-print-without-a-newline/
 
