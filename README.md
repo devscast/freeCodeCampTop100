@@ -21,7 +21,7 @@
 
 - [x]    https://www.freecodecamp.org/news/git-clone-branch-how-to-clone-a-specific-branch/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/
+- [x]    https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/
 
 - [ ]    https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/
 
