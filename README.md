@@ -27,7 +27,7 @@
 
 - [x]    https://www.freecodecamp.org/news/check-if-javascript-array-is-empty-or-not-with-length/
 
-- [ ]    https://www.freecodecamp.org/news/python-new-line-and-how-to-python-print-without-a-newline/
+- [x]    https://www.freecodecamp.org/news/python-new-line-and-how-to-python-print-without-a-newline/
 
 - [ ]    https://www.freecodecamp.org/news/cmd-delete-folder-how-to-remove-files-and-folders-in-windows/
 
