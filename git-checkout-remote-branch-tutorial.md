@@ -1,5 +1,7 @@
 # Git Checkout Remote Branch Tutorial
 
+![image univers](https://cdn-media-2.freecodecamp.org/w1280/5ffda02d75d5f706921cc25f.jpg)
+
 ### Git est un outil de contrôle de version qui vous permet de maintenir et de visualiser différentes versions de votre application. Lorsqu'une nouvelle mise à jour casse votre application, Git vous permet de revenir à la version précédente.
 
 En plus du versioning, Git vous permet de travailler dans plusieurs environnements en même temps. Dans ce contexte, les environnements multiples sont des branches.
