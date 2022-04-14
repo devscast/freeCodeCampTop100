@@ -19,13 +19,13 @@
 
 - [x]    https://www.freecodecamp.org/news/java-string-to-int-how-to-convert-a-string-to-an-integer/
 
-- [ ]    https://www.freecodecamp.org/news/git-clone-branch-how-to-clone-a-specific-branch/
+- [x]    https://www.freecodecamp.org/news/git-clone-branch-how-to-clone-a-specific-branch/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/
+- [x]    https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/
 
 - [ ]    https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/
 
-- [ ]    https://www.freecodecamp.org/news/check-if-javascript-array-is-empty-or-not-with-length/
+- [x]    https://www.freecodecamp.org/news/check-if-javascript-array-is-empty-or-not-with-length/
 
 - [ ]    https://www.freecodecamp.org/news/python-new-line-and-how-to-python-print-without-a-newline/
 
