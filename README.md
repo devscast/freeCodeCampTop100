@@ -29,7 +29,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/python-new-line-and-how-to-python-print-without-a-newline/
 
-- [ ]    https://www.freecodecamp.org/news/cmd-delete-folder-how-to-remove-files-and-folders-in-windows/
+- [x]    https://www.freecodecamp.org/news/cmd-delete-folder-how-to-remove-files-and-folders-in-windows/
 
 - [ ]    https://www.freecodecamp.org/news/python-projects-for-beginners/
 
