@@ -113,7 +113,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/
 
-- [ ]    https://www.freecodecamp.org/news/find-square-root-of-number-calculate-by-hand/
+- [x]    https://www.freecodecamp.org/news/find-square-root-of-number-calculate-by-hand/
 
 - [ ]    https://www.freecodecamp.org/news/how-to-change-your-gmail-name-without-creating-a-new-email-address/
 
