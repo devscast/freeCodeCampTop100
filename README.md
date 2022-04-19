@@ -33,7 +33,7 @@
 
 - [x]    https://www.freecodecamp.org/news/python-projects-for-beginners/
 
-- [ ]    https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+- [x]    https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
 
 - [ ]    https://www.freecodecamp.org/news/windows-10-start-menu-not-working-solved/
 
@@ -147,7 +147,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/git-switch-branch/
 
-- [ ]    https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/
+- [x]    https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/
 
 - [ ]    https://www.freecodecamp.org/news/where-are-docker-images-stored-docker-container-paths-explained/
 
