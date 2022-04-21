@@ -35,7 +35,7 @@
 
 - [x]    https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
 
-- [ ]    https://www.freecodecamp.org/news/windows-10-start-menu-not-working-solved/
+- [x]    https://www.freecodecamp.org/news/windows-10-start-menu-not-working-solved/
 
 - [ ]    https://www.freecodecamp.org/news/python-for-loop-for-i-in-range-example/
 
