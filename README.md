@@ -187,7 +187,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/format-specifiers-in-c/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
+- [x]    https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
 
 - [ ]    https://www.freecodecamp.org/news/jquery-ajax-post-method/
 
