@@ -1,20 +1,20 @@
 https://www.freecodecamp.org/news/python-new-line-and-how-to-python-print-without-a-newline/
 
-# Python New Line et comment imprimer en Python sans Newline
+# Python saut de ligne et comment imprimer en Python sans Newline
 
 Bienvenue ! Le caractère de nouvelle ligne en Python est utilisé pour marquer la fin d'une ligne et le début d'une nouvelle ligne. Il est essentiel de savoir comment l'utiliser si vous voulez imprimer des données dans la console et travailler avec des fichiers.
 
 Dans cet article, vous apprendrez :
 
-. Comment identifier le caractère de nouvelle ligne en Python.
-. Comment le caractère de nouvelle ligne peut être utilisé dans les chaînes de caractères et les instructions d'impression.
-. Comment écrire des instructions d'impression qui n'ajoutent pas de caractère de nouvelle ligne à la fin de la chaîne.
+- Comment identifier le caractère de nouvelle ligne en Python.
+- Comment le caractère de nouvelle ligne peut être utilisé dans les chaînes de caractères et les instructions d'impression.
+- Comment écrire des instructions d'impression qui n'ajoutent pas de caractère de nouvelle ligne à la fin de la chaîne.
 
 C'est parti ! ✨
 
-## 🔹 Le nouveau caractère de ligne
+## 🔹 Le caractere de saut de ligne 
 
-Le caractère de nouvelle ligne en Python est :
+Le caractere de saut de ligne  en Python est :
 
 ```
 \n
@@ -35,7 +35,7 @@ Vous pouvez également utiliser ce caractère dans  *f-strings*:
 ```
 
 
-## 🔸 Le caractère de nouvelle ligne dans les instructions d'impression
+## 🔸 le caractère saut de ligne dans les instructions d'impression
 
 Par défaut, les instructions print ajoutent un caractère de nouvelle ligne " en coulisse " à la fin de la chaîne.
 
@@ -57,7 +57,7 @@ Mais si vous utilisez plusieurs instructions d'impression l'une après l'autre d
 
 La sortie sera imprimée sur des lignes séparées car `\n` a été ajouté "en coulisses" à la fin de chaque ligne :
 
-## 🔹 Comment imprimer sans nouvelle ligne ?
+## 🔹 Comment imprimer saut de ligne ?
 
 Nous pouvons modifier ce comportement par défaut en personnalisant la valeur du paramètre `end` de la fonction `print`.
 
@@ -93,8 +93,8 @@ Le résultat est :
 ```
 ```
 
-🔸 Le nouveau caractère de ligne dans les fichiers
-Le caractère de nouvelle ligne `\n` se trouve également dans les fichiers, mais il est "caché". Lorsque vous voyez une nouvelle ligne dans un fichier texte, un caractère de nouvelle ligne `\n` a été inséré.
+🔸 le caractère saut de ligne dans les fichiers
+le caractère saut de ligne `\n` se trouve également dans les fichiers, mais il est "caché". Lorsque vous voyez une nouvelle ligne dans un fichier texte, un caractère de nouvelle ligne `\n` a été inséré.
 
 Vous pouvez le vérifier en lisant le fichier avec `<file>.readlines()`, comme ceci :
 
@@ -115,7 +115,7 @@ Comme vous pouvez le constater, les trois premières lignes du fichier texte se 
 
 ## 🔹 En résumé
 
-. Le caractère de nouvelle ligne en Python est le `\n`. Il est utilisé pour indiquer la fin d'une ligne de texte.
+. le caractère saut de ligne en Python est le `\n`. Il est utilisé pour indiquer la fin d'une ligne de texte.
 . Vous pouvez imprimer des chaînes de caractères sans ajouter une nouvelle ligne avec `end = <caractère>`, lequel `<caractère>` est le caractère qui sera utilisé pour séparer les lignes.
 J'espère vraiment que vous avez aimé mon article et qu'il vous a été utile. Vous pouvez maintenant travailler avec le caractère de nouvelle ligne en Python.
 
