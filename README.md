@@ -35,11 +35,11 @@
 
 - [x]    https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
 
-- [ ]    https://www.freecodecamp.org/news/windows-10-start-menu-not-working-solved/
+- [x]    https://www.freecodecamp.org/news/windows-10-start-menu-not-working-solved/
 
-- [ ]    https://www.freecodecamp.org/news/python-for-loop-for-i-in-range-example/
+- [x]    https://www.freecodecamp.org/news/python-for-loop-for-i-in-range-example/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/
+- [x]    https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/
 
 - [ ]    https://www.freecodecamp.org/news/use-svg-images-in-css-html/
 
