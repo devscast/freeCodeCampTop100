@@ -17,29 +17,29 @@
 
 - [ ]    https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-and-paste/
 
-- [ ]    https://www.freecodecamp.org/news/java-string-to-int-how-to-convert-a-string-to-an-integer/
+- [x]    https://www.freecodecamp.org/news/java-string-to-int-how-to-convert-a-string-to-an-integer/
 
-- [ ]    https://www.freecodecamp.org/news/git-clone-branch-how-to-clone-a-specific-branch/
+- [x]    https://www.freecodecamp.org/news/git-clone-branch-how-to-clone-a-specific-branch/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/
+- [x]    https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/
 
 - [ ]    https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/
 
-- [ ]    https://www.freecodecamp.org/news/check-if-javascript-array-is-empty-or-not-with-length/
+- [x]    https://www.freecodecamp.org/news/check-if-javascript-array-is-empty-or-not-with-length/
 
 - [ ]    https://www.freecodecamp.org/news/python-new-line-and-how-to-python-print-without-a-newline/
 
-- [ ]    https://www.freecodecamp.org/news/cmd-delete-folder-how-to-remove-files-and-folders-in-windows/
+- [x]    https://www.freecodecamp.org/news/cmd-delete-folder-how-to-remove-files-and-folders-in-windows/
 
-- [ ]    https://www.freecodecamp.org/news/python-projects-for-beginners/
+- [x]    https://www.freecodecamp.org/news/python-projects-for-beginners/
 
-- [ ]    https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+- [x]    https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
 
-- [ ]    https://www.freecodecamp.org/news/windows-10-start-menu-not-working-solved/
+- [x]    https://www.freecodecamp.org/news/windows-10-start-menu-not-working-solved/
 
-- [ ]    https://www.freecodecamp.org/news/python-for-loop-for-i-in-range-example/
+- [x]    https://www.freecodecamp.org/news/python-for-loop-for-i-in-range-example/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/
+- [x]    https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/
 
 - [ ]    https://www.freecodecamp.org/news/use-svg-images-in-css-html/
 
@@ -113,7 +113,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/
 
-- [ ]    https://www.freecodecamp.org/news/find-square-root-of-number-calculate-by-hand/
+- [x]    https://www.freecodecamp.org/news/find-square-root-of-number-calculate-by-hand/
 
 - [ ]    https://www.freecodecamp.org/news/how-to-change-your-gmail-name-without-creating-a-new-email-address/
 
@@ -147,7 +147,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/git-switch-branch/
 
-- [ ]    https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/
+- [x]    https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/
 
 - [ ]    https://www.freecodecamp.org/news/where-are-docker-images-stored-docker-container-paths-explained/
 
@@ -187,7 +187,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/format-specifiers-in-c/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
+- [x]    https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
 
 - [ ]    https://www.freecodecamp.org/news/jquery-ajax-post-method/
 
