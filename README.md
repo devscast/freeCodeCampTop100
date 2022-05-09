@@ -41,7 +41,7 @@
 
 - [x]    https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/
 
-- [ ]    https://www.freecodecamp.org/news/use-svg-images-in-css-html/
+- [X]    https://www.freecodecamp.org/news/use-svg-images-in-css-html/
 
 - [ ]    https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/
 
