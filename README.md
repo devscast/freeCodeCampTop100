@@ -199,7 +199,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/how-to-download-and-install-xcode/
 
-- [ ]    https://www.freecodecamp.org/news/html-and-html5-example/
+- [x]    https://www.freecodecamp.org/news/html-and-html5-example/
 
 - [ ]    https://www.freecodecamp.org/news/python-json-how-to-convert-a-string-to-json/
 
