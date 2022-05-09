@@ -197,7 +197,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-download-and-install-xcode/
+- [x]    https://www.freecodecamp.org/news/how-to-download-and-install-xcode/
 
 - [ ]    https://www.freecodecamp.org/news/html-and-html5-example/
 
