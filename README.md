@@ -183,7 +183,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/html-select-tag-how-to-make-a-dropdown-menu-or-combo-list/
 
-- [ ]    https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/
+- [x]    https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/
 
 - [ ]    https://www.freecodecamp.org/news/format-specifiers-in-c/
 
