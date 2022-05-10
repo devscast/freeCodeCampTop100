@@ -185,7 +185,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/
 
-- [ ]    https://www.freecodecamp.org/news/format-specifiers-in-c/
+- [x]    https://www.freecodecamp.org/news/format-specifiers-in-c/
 
 - [x]    https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
 
