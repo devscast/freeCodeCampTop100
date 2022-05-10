@@ -189,7 +189,7 @@
 
 - [x]    https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
 
-- [ ]    https://www.freecodecamp.org/news/jquery-ajax-post-method/
+- [x]    https://www.freecodecamp.org/news/jquery-ajax-post-method/
 
 - [ ]    https://www.freecodecamp.org/news/python-empty-list-tutorial-how-to-create-an-empty-list-in-python/
 
