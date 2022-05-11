@@ -181,7 +181,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/json-stringify-example-how-to-parse-a-json-object-with-javascript/
 
-- [ ]    https://www.freecodecamp.org/news/html-select-tag-how-to-make-a-dropdown-menu-or-combo-list/
+- [x]    https://www.freecodecamp.org/news/html-select-tag-how-to-make-a-dropdown-menu-or-combo-list/
 
 - [ ]    https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/
 
