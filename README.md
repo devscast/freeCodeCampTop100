@@ -201,6 +201,6 @@
 
 - [ ]    https://www.freecodecamp.org/news/html-and-html5-example/
 
-- [ ]    https://www.freecodecamp.org/news/python-json-how-to-convert-a-string-to-json/
+- [x]    https://www.freecodecamp.org/news/python-json-how-to-convert-a-string-to-json/
 
 - [x]    https://www.freecodecamp.org/news/git-revert-commit-how-to-undo-the-last-commit/
