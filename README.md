@@ -191,7 +191,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/jquery-ajax-post-method/
 
-- [ ]    https://www.freecodecamp.org/news/python-empty-list-tutorial-how-to-create-an-empty-list-in-python/
+- [x]    https://www.freecodecamp.org/news/python-empty-list-tutorial-how-to-create-an-empty-list-in-python/
 
 - [x]    https://www.freecodecamp.org/news/c-ternary-operator/
 
