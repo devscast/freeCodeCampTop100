@@ -179,7 +179,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/
 
-- [ ]    https://www.freecodecamp.org/news/json-stringify-example-how-to-parse-a-json-object-with-javascript/
+- [x]    https://www.freecodecamp.org/news/json-stringify-example-how-to-parse-a-json-object-with-javascript/
 
 - [x]    https://www.freecodecamp.org/news/html-select-tag-how-to-make-a-dropdown-menu-or-combo-list/
 
