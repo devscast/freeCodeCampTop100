@@ -195,7 +195,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/c-ternary-operator/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/
+- [x]    https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/
 
 - [x]    https://www.freecodecamp.org/news/how-to-download-and-install-xcode/
 
