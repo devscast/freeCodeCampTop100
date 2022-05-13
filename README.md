@@ -193,7 +193,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/python-empty-list-tutorial-how-to-create-an-empty-list-in-python/
 
-- [ ]    https://www.freecodecamp.org/news/c-ternary-operator/
+- [x]    https://www.freecodecamp.org/news/c-ternary-operator/
 
 - [x]    https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/
 
