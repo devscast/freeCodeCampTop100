@@ -177,7 +177,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/
+- [x]    https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/
 
 - [x]    https://www.freecodecamp.org/news/json-stringify-example-how-to-parse-a-json-object-with-javascript/
 
