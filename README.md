@@ -27,7 +27,7 @@
 
 - [x]    https://www.freecodecamp.org/news/check-if-javascript-array-is-empty-or-not-with-length/
 
-- [ ]    https://www.freecodecamp.org/news/python-new-line-and-how-to-python-print-without-a-newline/
+- [x]    https://www.freecodecamp.org/news/python-new-line-and-how-to-python-print-without-a-newline/
 
 - [x]    https://www.freecodecamp.org/news/cmd-delete-folder-how-to-remove-files-and-folders-in-windows/
 
@@ -41,7 +41,7 @@
 
 - [x]    https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/
 
-- [ ]    https://www.freecodecamp.org/news/use-svg-images-in-css-html/
+- [X]    https://www.freecodecamp.org/news/use-svg-images-in-css-html/
 
 - [ ]    https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/
 
@@ -175,32 +175,32 @@
 
 - [ ]    https://www.freecodecamp.org/news/how-to-play-the-no-internet-google-chrome-dinosaur-game-both-online-and-offline/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
+- [x]    https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/
+- [x]    https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/
 
-- [ ]    https://www.freecodecamp.org/news/json-stringify-example-how-to-parse-a-json-object-with-javascript/
+- [x]    https://www.freecodecamp.org/news/json-stringify-example-how-to-parse-a-json-object-with-javascript/
 
-- [ ]    https://www.freecodecamp.org/news/html-select-tag-how-to-make-a-dropdown-menu-or-combo-list/
+- [x]    https://www.freecodecamp.org/news/html-select-tag-how-to-make-a-dropdown-menu-or-combo-list/
 
-- [ ]    https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/
+- [x]    https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/
 
-- [ ]    https://www.freecodecamp.org/news/format-specifiers-in-c/
+- [x]    https://www.freecodecamp.org/news/format-specifiers-in-c/
 
 - [x]    https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
 
-- [ ]    https://www.freecodecamp.org/news/jquery-ajax-post-method/
+- [x]    https://www.freecodecamp.org/news/jquery-ajax-post-method/
 
-- [ ]    https://www.freecodecamp.org/news/python-empty-list-tutorial-how-to-create-an-empty-list-in-python/
+- [x]    https://www.freecodecamp.org/news/python-empty-list-tutorial-how-to-create-an-empty-list-in-python/
 
-- [ ]    https://www.freecodecamp.org/news/c-ternary-operator/
+- [x]    https://www.freecodecamp.org/news/c-ternary-operator/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/
+- [x]    https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-download-and-install-xcode/
+- [x]    https://www.freecodecamp.org/news/how-to-download-and-install-xcode/
 
-- [ ]    https://www.freecodecamp.org/news/html-and-html5-example/
+- [x]    https://www.freecodecamp.org/news/html-and-html5-example/
 
-- [ ]    https://www.freecodecamp.org/news/python-json-how-to-convert-a-string-to-json/
+- [x]    https://www.freecodecamp.org/news/python-json-how-to-convert-a-string-to-json/
 
 - [x]    https://www.freecodecamp.org/news/git-revert-commit-how-to-undo-the-last-commit/
