@@ -169,7 +169,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/javascript-foreach-how-to-loop-through-an-array-in-js/
 
-- [ ]    https://www.freecodecamp.org/news/what-is-msmpeng-exe-why-is-it-of-high-cpu-disk-usage/
+- [x]    https://www.freecodecamp.org/news/what-is-msmpeng-exe-why-is-it-of-high-cpu-disk-usage/
 
 - [ ]    https://www.freecodecamp.org/news/how-to-change-screen-brightness-on-windows-10/
 
