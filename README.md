@@ -167,7 +167,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/git-checkout-remote-branch-tutorial/
 
-- [ ]    https://www.freecodecamp.org/news/javascript-foreach-how-to-loop-through-an-array-in-js/
+- [x]    https://www.freecodecamp.org/news/javascript-foreach-how-to-loop-through-an-array-in-js/
 
 - [ ]    https://www.freecodecamp.org/news/what-is-msmpeng-exe-why-is-it-of-high-cpu-disk-usage/
 
