@@ -171,7 +171,7 @@
 
 - [x]    https://www.freecodecamp.org/news/what-is-msmpeng-exe-why-is-it-of-high-cpu-disk-usage/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-change-screen-brightness-on-windows-10/
+- [x]    https://www.freecodecamp.org/news/how-to-change-screen-brightness-on-windows-10/
 
 - [ ]    https://www.freecodecamp.org/news/how-to-play-the-no-internet-google-chrome-dinosaur-game-both-online-and-offline/
 
