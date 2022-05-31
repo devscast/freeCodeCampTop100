@@ -173,7 +173,7 @@
 
 - [x]    https://www.freecodecamp.org/news/how-to-change-screen-brightness-on-windows-10/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-play-the-no-internet-google-chrome-dinosaur-game-both-online-and-offline/
+- [x]    https://www.freecodecamp.org/news/how-to-play-the-no-internet-google-chrome-dinosaur-game-both-online-and-offline/
 
 - [x]    https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
 
