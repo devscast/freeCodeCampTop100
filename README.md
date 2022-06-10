@@ -3,11 +3,11 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 
-## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/43)
+## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/45)
 
 - [x]    https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-delete-a-page-in-word-remove-blank-or-extra-pages/
+- [x]    https://www.freecodecamp.org/news/how-to-delete-a-page-in-word-remove-blank-or-extra-pages/
 
 - [ ]    https://www.freecodecamp.org/news/mathematics-converting-am-pm-to-24-hour-clock/
 
@@ -71,7 +71,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/how-to-clone-an-array-in-javascript-1d3183468f6a/
 
-- [ ]    https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/
+- [x]    https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/
 
 - [ ]    https://www.freecodecamp.org/news/bash-array-how-to-declare-an-array-of-strings-in-a-bash-script/
 
