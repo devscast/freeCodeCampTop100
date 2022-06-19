@@ -3,13 +3,13 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 
-## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/45)
+## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/52)
 
 - [x]    https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
 
 - [x]    https://www.freecodecamp.org/news/how-to-delete-a-page-in-word-remove-blank-or-extra-pages/
 
-- [ ]    https://www.freecodecamp.org/news/mathematics-converting-am-pm-to-24-hour-clock/
+- [x]    https://www.freecodecamp.org/news/mathematics-converting-am-pm-to-24-hour-clock/
 
 - [x]    https://www.freecodecamp.org/news/how-to-substring-a-string-in-python/
 
@@ -43,9 +43,9 @@
 
 - [X]    https://www.freecodecamp.org/news/use-svg-images-in-css-html/
 
-- [ ]    https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/
+- [x]    https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/
 
-- [ ]    https://www.freecodecamp.org/news/the-linux-ls-command-how-to-list-files-in-a-directory-with-options/
+- [x]    https://www.freecodecamp.org/news/the-linux-ls-command-how-to-list-files-in-a-directory-with-options/
 
 - [ ]    https://www.freecodecamp.org/news/python-do-while-loop-example/
 
@@ -55,9 +55,9 @@
 
 - [ ]    https://www.freecodecamp.org/news/html-button-onclick-javascript-click-event-tutorial/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-undo-changes-in-git-e1da7930afdb/
+- [x]    https://www.freecodecamp.org/news/how-to-undo-changes-in-git-e1da7930afdb/
 
-- [ ]    https://www.freecodecamp.org/news/alt-codes-special-characters-keyboard-symbols-windows-list/
+- [x]    https://www.freecodecamp.org/news/alt-codes-special-characters-keyboard-symbols-windows-list/
 
 - [ ]    https://www.freecodecamp.org/news/the-python-modulo-operator-what-does-the-symbol-mean-in-python-solved/
 
@@ -75,7 +75,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/bash-array-how-to-declare-an-array-of-strings-in-a-bash-script/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-remove-images-in-docker/
+- [x]    https://www.freecodecamp.org/news/how-to-remove-images-in-docker/
 
 - [ ]    https://www.freecodecamp.org/news/react-background-image-tutorial-how-to-set-backgroundimage-with-inline-css-style/
 
@@ -83,11 +83,11 @@
 
 - [ ]    https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/
 
-- [ ]    https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/
+- [x]    https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/
 
 - [ ]    https://www.freecodecamp.org/news/appdata-where-to-find-the-appdata-folder-in-windows-10/
 
-- [ ]    https://www.freecodecamp.org/news/git-pull-explained/
+- [x]    https://www.freecodecamp.org/news/git-pull-explained/
 
 - [ ]    https://www.freecodecamp.org/news/python-version-on-mac-update/
 
@@ -103,13 +103,13 @@
 
 - [ ]    https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/
 
-- [ ]    https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/
+- [x]    https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/
 
 - [ ]    https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
 
 - [ ]    https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
 
-- [ ]    https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/
+- [x]    https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/
 
 - [ ]    https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/
 
@@ -161,11 +161,11 @@
 
 - [ ]    https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/
 
-- [ ]    https://www.freecodecamp.org/news/fetch-data-react/
+- [x]    https://www.freecodecamp.org/news/fetch-data-react/
 
 - [ ]    https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
 
-- [ ]    https://www.freecodecamp.org/news/git-checkout-remote-branch-tutorial/
+- [x]    https://www.freecodecamp.org/news/git-checkout-remote-branch-tutorial/
 
 - [x]    https://www.freecodecamp.org/news/javascript-foreach-how-to-loop-through-an-array-in-js/
 
