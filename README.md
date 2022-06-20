@@ -79,7 +79,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/react-background-image-tutorial-how-to-set-backgroundimage-with-inline-css-style/
 
-- [ ]    https://www.freecodecamp.org/news/git-fetch-vs-pull/
+- [x]    https://www.freecodecamp.org/news/git-fetch-vs-pull/
 
 - [ ]    https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/
 
