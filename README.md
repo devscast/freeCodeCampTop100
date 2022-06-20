@@ -3,7 +3,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 
-## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/52)
+## progression ![Progression](https://us-central1-progress-markdown.cloudfunctions.net/progress/53)
 
 - [x]    https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
 
