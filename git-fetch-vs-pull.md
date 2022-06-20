@@ -2,10 +2,7 @@ https://www.freecodecamp.org/news/git-fetch-vs-pull/
 
 # Git Fetch vs Pull : quelle est la différence entre les commandes Git Fetch et Git Pull ?
 
-<p  align="center">
-Git `pull` et `fetch` sont deux commandes qui sont régulièrement utilisées par les utilisateurs de Git. Voyons la différence entre ces deux commandes.
-</p>
-
+**Git `pull` et `fetch` sont deux commandes qui sont régulièrement utilisées par les utilisateurs de Git. Voyons la différence entre ces deux commandes.**
 
 Pour des raisons de contexte, il est bon de rappeler que nous travaillons probablement dans un repo clone. Qu'est-ce qu'un clone ? Il s'agit simplement d'une duplication d'un autre dépôt. Il s'agit en fait d'obtenir votre propre copie du code source de quelqu'un d'autre.
 
