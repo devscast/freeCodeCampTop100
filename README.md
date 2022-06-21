@@ -115,7 +115,7 @@
 
 - [x]    https://www.freecodecamp.org/news/find-square-root-of-number-calculate-by-hand/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-change-your-gmail-name-without-creating-a-new-email-address/
+- [x]    https://www.freecodecamp.org/news/how-to-change-your-gmail-name-without-creating-a-new-email-address/
 
 - [ ]    https://www.freecodecamp.org/news/how-make-a-windows-10-usb-using-your-mac-build-a-bootable-iso-from-your-macs-terminal/
 
