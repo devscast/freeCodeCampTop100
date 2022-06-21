@@ -161,11 +161,11 @@
 
 - [ ]    https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/
 
-- [ ]    https://www.freecodecamp.org/news/fetch-data-react/
+- [x]    https://www.freecodecamp.org/news/fetch-data-react/
 
-- [ ]    https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
+- [x]    https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
 
-- [ ]    https://www.freecodecamp.org/news/git-checkout-remote-branch-tutorial/
+- [x]    https://www.freecodecamp.org/news/git-checkout-remote-branch-tutorial/
 
 - [x]    https://www.freecodecamp.org/news/javascript-foreach-how-to-loop-through-an-array-in-js/
 
