@@ -163,7 +163,7 @@
 
 - [x]    https://www.freecodecamp.org/news/fetch-data-react/
 
-- [ ]    https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
+- [x]    https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
 
 - [x]    https://www.freecodecamp.org/news/git-checkout-remote-branch-tutorial/
 
