@@ -131,7 +131,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
-- [ ]    https://www.freecodecamp.org/news/instagram-picture-download-guide/
+- [x]    https://www.freecodecamp.org/news/instagram-picture-download-guide/
 
 - [ ]    https://www.freecodecamp.org/news/pass-data-between-components-in-react/
 
