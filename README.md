@@ -155,7 +155,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/string-to-int-in-c-how-to-convert-a-string-to-an-integer-example/
 
-- [ ]    https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/
+- [x]    https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/
 
 - [ ]    https://www.freecodecamp.org/news/javascript-debounce-example/
 
