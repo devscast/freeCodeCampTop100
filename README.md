@@ -61,7 +61,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/the-python-modulo-operator-what-does-the-symbol-mean-in-python-solved/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-redirect-http-to-https-using-htaccess/
+- [x]    https://www.freecodecamp.org/news/how-to-redirect-http-to-https-using-htaccess/
 
 - [ ]    https://www.freecodecamp.org/news/install-xcode-command-line-tools/
 
