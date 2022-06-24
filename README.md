@@ -59,7 +59,7 @@
 
 - [x]    https://www.freecodecamp.org/news/alt-codes-special-characters-keyboard-symbols-windows-list/
 
-- [ ]    https://www.freecodecamp.org/news/the-python-modulo-operator-what-does-the-symbol-mean-in-python-solved/
+- [x]    https://www.freecodecamp.org/news/the-python-modulo-operator-what-does-the-symbol-mean-in-python-solved/
 
 - [x]    https://www.freecodecamp.org/news/how-to-redirect-http-to-https-using-htaccess/
 
