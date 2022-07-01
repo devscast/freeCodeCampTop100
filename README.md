@@ -65,7 +65,7 @@
 
 - [ ]    https://www.freecodecamp.org/news/install-xcode-command-line-tools/
 
-- [ ]    https://www.freecodecamp.org/news/how-to-center-an-image-in-css/
+- [x]    https://www.freecodecamp.org/news/how-to-center-an-image-in-css/
 
 - [ ]    https://www.freecodecamp.org/news/if-name-main-python-example/
 
